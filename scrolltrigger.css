@@ -1,0 +1,22 @@
+.box {
+    width: 20px;
+    height: 20px;
+    padding: 40px;
+    color: black;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.a {
+    background-color: purple;
+}
+
+.b {
+    background-color: green;
+}
+
+.c {
+    background-color: red;
+}
